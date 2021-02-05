@@ -21,7 +21,7 @@ body {
 }
 
 .top:hover {
-  color: #0acf83;
+  color: #d17600;
   transform: translateY(-5px);
   transition: 1s;
 }
@@ -33,11 +33,11 @@ body {
 }
 
 #menu:hover {
-  color: #0acf83;
+  color: #d17600;
 }
 
 .container span {
-  color: #0acf83;
+  color: #d17600;
 }
 
 .vector {
@@ -67,12 +67,12 @@ body {
 }
 
 #btn-email-me {
-  border-color: #0acf83 !important;
+  border-color: #d17600 !important;
   border-radius: 10px;
 }
 
 #btn-email-me:hover {
-  background-color: #0acf83;
+  background-color: #d17600;
   color: #232433;
   border-radius: 10px;
 }
@@ -82,7 +82,7 @@ body {
 }
 
 .social-media a:hover {
-  color: #0acf83;
+  color: #d17600;
 }
 
 .download-cv a {
@@ -92,7 +92,7 @@ body {
 }
 
 .download-cv a:hover {
-  color: #0acf83;
+  color: #d17600;
   /* #41c4ff */
   text-decoration: none;
 }
@@ -150,7 +150,7 @@ body {
 .view-code:hover {
   text-decoration: none;
 
-  color: #0acf83;
+  color: #d17600;
 }
 
 #card-certificates {
@@ -219,7 +219,7 @@ body {
 @media (min-width: 1280px) {
   .nav-link:hover::after {
     content: "";
-    border-bottom: 2px solid #0acf83;
+    border-bottom: 2px solid #d17600;
     display: block;
     margin: auto;
     width: 50%;
@@ -312,7 +312,7 @@ body {
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  color: #0acf83;
+  color: #d17600;
   font-size: 17px;
   box-shadow: 0 0 0 4px #3a3b53, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
@@ -352,7 +352,7 @@ body {
 
 .row section .bottom a {
   text-decoration: none;
-  background: #0acf83;
+  background: #d17600;
   color: rgb(12, 12, 12);
   padding: 7px 15px;
   border-radius: 5px;
@@ -421,7 +421,7 @@ body {
   position: relative;
   width: 210px;
   height: 210px;
-  border: 4px solid #0acf83;
+  border: 4px solid #d17600;
   border-radius: 50%;
   overflow: hidden;
   margin: 0 auto
@@ -479,7 +479,7 @@ body {
 }
 
 .team-info p {
-  color: #0acf83;
+  color: #d17600;
   text-transform: uppercase
 }
 
